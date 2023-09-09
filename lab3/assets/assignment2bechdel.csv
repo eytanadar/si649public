@@ -1,0 +1,115 @@
+movieName,rank2016,roleType,gender,typeCount,domesticBoxOffice,openingBoxOffice,passedBechdel
+Batman v Superman: Dawn of Justice,8,Cameo,Female,5,330360194.0,166007347.0,passed
+Batman v Superman: Dawn of Justice,8,Cameo,Male,8,330360194.0,166007347.0,passed
+Batman v Superman: Dawn of Justice,8,Cameo,Unknown,1,330360194.0,166007347.0,passed
+Batman v Superman: Dawn of Justice,8,Leading,Female,2,330360194.0,166007347.0,passed
+Batman v Superman: Dawn of Justice,8,Leading,Male,2,330360194.0,166007347.0,passed
+Batman v Superman: Dawn of Justice,8,Supporting,Female,29,330360194.0,166007347.0,passed
+Batman v Superman: Dawn of Justice,8,Supporting,Male,68,330360194.0,166007347.0,passed
+Batman v Superman: Dawn of Justice,8,Supporting,Unknown,7,330360194.0,166007347.0,passed
+Captain America: Civil War,3,Cameo,Male,1,408084349.0,179139142.0,failed
+Captain America: Civil War,3,Lead Ensemble Member,Female,2,408084349.0,179139142.0,failed
+Captain America: Civil War,3,Lead Ensemble Member,Male,7,408084349.0,179139142.0,failed
+Captain America: Civil War,3,Lead Ensemble Member,Unknown,1,408084349.0,179139142.0,failed
+Captain America: Civil War,3,Supporting,Female,4,408084349.0,179139142.0,failed
+Captain America: Civil War,3,Supporting,Male,7,408084349.0,179139142.0,failed
+Captain America: Civil War,3,Supporting,Unknown,4,408084349.0,179139142.0,failed
+Deadpool,6,Cameo,Male,1,363070709.0,132434639.0,passed
+Deadpool,6,Leading,Male,1,363070709.0,132434639.0,passed
+Deadpool,6,Supporting,Female,11,363070709.0,132434639.0,passed
+Deadpool,6,Supporting,Male,16,363070709.0,132434639.0,passed
+Deadpool,6,Supporting,Unknown,5,363070709.0,132434639.0,passed
+Doctor Strange,13,Cameo,Male,2,232641920.0,85058311.0,passed
+Doctor Strange,13,Lead Ensemble Member,Female,2,232641920.0,85058311.0,passed
+Doctor Strange,13,Lead Ensemble Member,Male,4,232641920.0,85058311.0,passed
+Doctor Strange,13,Supporting,Female,6,232641920.0,85058311.0,passed
+Doctor Strange,13,Supporting,Male,10,232641920.0,85058311.0,passed
+Doctor Strange,13,Supporting,Unknown,5,232641920.0,85058311.0,passed
+Fantastic Beasts and Where to Find Them,12,Cameo,Male,1,234037575.0,74403387.0,failed
+Fantastic Beasts and Where to Find Them,12,Lead Ensemble Member,Female,2,234037575.0,74403387.0,failed
+Fantastic Beasts and Where to Find Them,12,Lead Ensemble Member,Male,5,234037575.0,74403387.0,failed
+Fantastic Beasts and Where to Find Them,12,Lead Ensemble Member,Unknown,2,234037575.0,74403387.0,failed
+Fantastic Beasts and Where to Find Them,12,Supporting,Female,14,234037575.0,74403387.0,failed
+Fantastic Beasts and Where to Find Them,12,Supporting,Male,34,234037575.0,74403387.0,failed
+Fantastic Beasts and Where to Find Them,12,Supporting,Unknown,3,234037575.0,74403387.0,failed
+Finding Dory,2,Cameo,Female,1,486295561.0,135060273.0,failed
+Finding Dory,2,Cameo,Male,1,486295561.0,135060273.0,failed
+Finding Dory,2,Leading,Female,1,486295561.0,135060273.0,failed
+Finding Dory,2,Supporting,Female,6,486295561.0,135060273.0,failed
+Finding Dory,2,Supporting,Male,16,486295561.0,135060273.0,failed
+Finding Dory,2,Supporting,Unknown,3,486295561.0,135060273.0,failed
+Hidden Figures,14,Lead Ensemble Member,Female,4,169607287.0,515499.0,failed
+Hidden Figures,14,Lead Ensemble Member,Male,2,169607287.0,515499.0,failed
+Hidden Figures,14,Supporting,Female,28,169607287.0,515499.0,failed
+Hidden Figures,14,Supporting,Male,53,169607287.0,515499.0,failed
+Hidden Figures,14,Supporting,Unknown,9,169607287.0,515499.0,failed
+Jason Bourne,15,Leading,Female,1,162192920.0,59215365.0,passed
+Jason Bourne,15,Leading,Male,1,162192920.0,59215365.0,passed
+Jason Bourne,15,Supporting,Female,5,162192920.0,59215365.0,passed
+Jason Bourne,15,Supporting,Male,26,162192920.0,59215365.0,passed
+Jason Bourne,15,Supporting,Unknown,10,162192920.0,59215365.0,passed
+Kung Fu Panda 3,20,Leading,Male,1,143528619.0,41282042.0,failed
+Kung Fu Panda 3,20,Supporting,Female,9,143528619.0,41282042.0,failed
+Kung Fu Panda 3,20,Supporting,Male,19,143528619.0,41282042.0,failed
+Kung Fu Panda 3,20,Supporting,Unknown,7,143528619.0,41282042.0,failed
+La La Land,19,Leading,Female,1,151101803.0,881104.0,failed
+La La Land,19,Leading,Male,1,151101803.0,881104.0,failed
+La La Land,19,Supporting,Female,19,151101803.0,881104.0,failed
+La La Land,19,Supporting,Male,23,151101803.0,881104.0,failed
+La La Land,19,Supporting,Unknown,5,151101803.0,881104.0,failed
+Moana,11,Leading,Female,1,248757044.0,56631401.0,failed
+Moana,11,Leading,Male,1,248757044.0,56631401.0,failed
+Moana,11,Supporting,Female,2,248757044.0,56631401.0,failed
+Moana,11,Supporting,Male,3,248757044.0,56631401.0,failed
+Rogue One,1,Lead Ensemble Member,Female,1,532177324.0,155081681.0,failed
+Rogue One,1,Lead Ensemble Member,Male,5,532177324.0,155081681.0,failed
+Rogue One,1,Lead Ensemble Member,Unknown,1,532177324.0,155081681.0,failed
+Rogue One,1,Supporting,Female,5,532177324.0,155081681.0,failed
+Rogue One,1,Supporting,Male,15,532177324.0,155081681.0,failed
+Rogue One,1,Supporting,Unknown,6,532177324.0,155081681.0,failed
+Sing,10,Lead Ensemble Member,Female,3,270329045.0,35258145.0,failed
+Sing,10,Lead Ensemble Member,Male,3,270329045.0,35258145.0,failed
+Sing,10,Lead Ensemble Member,Unknown,1,270329045.0,35258145.0,failed
+Sing,10,Supporting,Female,13,270329045.0,35258145.0,failed
+Sing,10,Supporting,Male,26,270329045.0,35258145.0,failed
+Sing,10,Supporting,Unknown,9,270329045.0,35258145.0,failed
+Star Trek Beyond,16,Lead Ensemble Member,Female,2,158848340.0,59253211.0,passed
+Star Trek Beyond,16,Lead Ensemble Member,Male,7,158848340.0,59253211.0,passed
+Star Trek Beyond,16,Supporting,Female,4,158848340.0,59253211.0,passed
+Star Trek Beyond,16,Supporting,Male,6,158848340.0,59253211.0,passed
+Star Trek Beyond,16,Supporting,Unknown,4,158848340.0,59253211.0,passed
+Suicide Squad,9,Lead Ensemble Member,Female,4,325100054.0,133682248.0,failed
+Suicide Squad,9,Lead Ensemble Member,Male,8,325100054.0,133682248.0,failed
+Suicide Squad,9,Lead Ensemble Member,Unknown,1,325100054.0,133682248.0,failed
+Suicide Squad,9,Supporting,Female,6,325100054.0,133682248.0,failed
+Suicide Squad,9,Supporting,Male,27,325100054.0,133682248.0,failed
+Suicide Squad,9,Supporting,Unknown,8,325100054.0,133682248.0,failed
+The Jungle Book,5,Lead Ensemble Member,Female,2,364001123.0,103261464.0,passed
+The Jungle Book,5,Lead Ensemble Member,Male,6,364001123.0,103261464.0,passed
+The Jungle Book,5,Supporting,Male,2,364001123.0,103261464.0,passed
+The Jungle Book,5,Supporting,Unknown,1,364001123.0,103261464.0,passed
+The Secret Life of Pets,4,Lead Ensemble Member,Female,2,368384330.0,104352905.0,passed
+The Secret Life of Pets,4,Lead Ensemble Member,Male,5,368384330.0,104352905.0,passed
+The Secret Life of Pets,4,Lead Ensemble Member,Unknown,3,368384330.0,104352905.0,passed
+The Secret Life of Pets,4,Supporting,Female,4,368384330.0,104352905.0,passed
+The Secret Life of Pets,4,Supporting,Male,10,368384330.0,104352905.0,passed
+The Secret Life of Pets,4,Supporting,Unknown,5,368384330.0,104352905.0,passed
+The Secret Life of Pets,4,Unknown,Male,1,368384330.0,104352905.0,passed
+The Secret Life of Pets,4,Unknown,Unknown,1,368384330.0,104352905.0,passed
+Trolls,18,Lead Ensemble Member,Female,2,153707064.0,46581142.0,failed
+Trolls,18,Lead Ensemble Member,Male,3,153707064.0,46581142.0,failed
+Trolls,18,Supporting,Female,13,153707064.0,46581142.0,failed
+Trolls,18,Supporting,Male,11,153707064.0,46581142.0,failed
+Trolls,18,Supporting,Unknown,3,153707064.0,46581142.0,failed
+X-Men: Apocalypse,17,Cameo,Female,1,155442489.0,65769562.0,failed
+X-Men: Apocalypse,17,Cameo,Male,1,155442489.0,65769562.0,failed
+X-Men: Apocalypse,17,Leading,Female,1,155442489.0,65769562.0,failed
+X-Men: Apocalypse,17,Leading,Male,2,155442489.0,65769562.0,failed
+X-Men: Apocalypse,17,Supporting,Female,16,155442489.0,65769562.0,failed
+X-Men: Apocalypse,17,Supporting,Male,58,155442489.0,65769562.0,failed
+X-Men: Apocalypse,17,Supporting,Unknown,11,155442489.0,65769562.0,failed
+Zootopia,7,Leading,Female,1,341268248.0,75063401.0,failed
+Zootopia,7,Leading,Male,1,341268248.0,75063401.0,failed
+Zootopia,7,Supporting,Female,9,341268248.0,75063401.0,failed
+Zootopia,7,Supporting,Male,15,341268248.0,75063401.0,failed
+Zootopia,7,Supporting,Unknown,6,341268248.0,75063401.0,failed
